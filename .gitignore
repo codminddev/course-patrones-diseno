@@ -1,0 +1,10 @@
+AbstractFactory/target/
+Adapter/target/
+Command/target/
+Composite/target/
+Facade/target/
+FactoryMethod/target/
+Observer/target/
+Proxy/target/
+Singleton/target/
+Strategy/target/
